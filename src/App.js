@@ -76,7 +76,7 @@ export default function App() {
       <option value="300000">5 minutes</option> //5mins = 5*60*1000 (interval time in milliseconds)
       <option value="1800000">30 minutes</option> //30mins = 30*60
       <option value="3600000">1 hour</option>
-      </select>
+      </select>	
 	 
 	 <br></br>
 	 <br></br>
