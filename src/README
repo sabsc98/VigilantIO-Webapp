@@ -1,0 +1,14 @@
+Summer's VigilantIO Assignment App
+
+Description:
+
+This app collects target points from a Graphite server using Node to display an interactive graph of multiple system performances.
+
+How to Install and Run the Project:
+
+To install Node...
+
+cd into directory
+npm install
+npm start
+
